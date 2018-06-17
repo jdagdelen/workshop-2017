@@ -1,6 +1,8 @@
 # MP Workshop 2017
 Assets for the Materials Project workshop on August 10-11, 2017 in Berkeley, CA.
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jdagdelen/workshop-2017/master)
+
 # Agenda
 
 Breakfast arrives on Thursday and Friday mornings at 09:00.
@@ -45,3 +47,5 @@ If you have push access to the repository, feel free to add assets / works in
 progress to share here. The preferred format is *.ipynb for tutorial material.
 For planning, feel free to examine/edit this
 repository's [wiki](https://github.com/materialsproject/workshop-2017/wiki).
+
+
